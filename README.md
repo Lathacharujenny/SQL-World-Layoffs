@@ -1,4 +1,5 @@
 # World Layoffs Dataset: Data Cleaning and Exploratory Data Analysis (EDA)
+![image](https://github.com/user-attachments/assets/93a9f2aa-bbd5-4481-aaf0-d1a0df5abb3c)
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
